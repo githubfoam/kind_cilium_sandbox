@@ -1,8 +1,8 @@
 # kind_cilium_sandbox
 
 
-Travis (.com) dev branch:
-[![Build Status](https://travis-ci.com/githubfoam/kind_cilium_sandbox.svg?branch=master)](https://travis-ci.com/githubfoam/kind_cilium_sandbox)  
+Travis (.com) branch:
+[![Build Status](https://travis-ci.com/githubfoam/kind_cilium_sandbox.svg?branch=main)](https://travis-ci.com/githubfoam/kind_cilium_sandbox)  
 
 ~~~~
 Cluster Mesh
